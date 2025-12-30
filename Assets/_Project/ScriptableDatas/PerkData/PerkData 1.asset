@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02a90501b5529274086c73ae44a9c2d8, type: 3}
+  m_Name: PerkData 1
+  m_EditorClassIdentifier: 
+  perkID: 1
+  perkName: Hoppin' Step
+  perkDescription: Increase Move Speed
+  perkIcon: {fileID: 21300000, guid: 2d40a721261f34b24913fcfec9aab9f5, type: 3}
+  moveSpeedMultiplier: 0.2
+  damageMultiplier: 0
+  reloadSpeedMultiplier: 0

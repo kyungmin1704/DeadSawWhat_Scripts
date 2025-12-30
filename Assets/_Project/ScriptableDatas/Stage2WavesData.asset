@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df530e62afae4044085f88b87cf110e8, type: 3}
+  m_Name: Stage2WavesData
+  m_EditorClassIdentifier: 
+  waveList:
+  - {fileID: 11400000, guid: 660db230cd06a0c42bbc28a731a9dbcf, type: 2}
+  - {fileID: 11400000, guid: b4a955e0d97568a4f8b0e638dfb2da8d, type: 2}
+  - {fileID: 11400000, guid: ddeb53aa17de175418ed3ad92a2e5c09, type: 2}
+  - {fileID: 11400000, guid: 90167263cf314934f8cf0d596c83f634, type: 2}
+  - {fileID: 11400000, guid: 1376f4143ded7664da1c97d1ea16648e, type: 2}
+  - {fileID: 11400000, guid: 5c97867fcc084254c8550a1425444568, type: 2}

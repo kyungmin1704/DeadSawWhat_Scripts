@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8429f78a24ddb78418690932675065bd, type: 3}
+  m_Name: StageNumber_2
+  m_EditorClassIdentifier: 
+  waves: {fileID: 11400000, guid: e7a9e3969dd372440bb235a7a2e12015, type: 2}
+  stageName: Bank Heist
+  sceneIndex: 3
+  stageSprite: {fileID: 21300000, guid: bb006f696eb4bd441884c4af67205834, type: 3}
+  description: 'Now, we heist Bank.
+
+    may be worth and plenty as I wish.
+
+    hope
+    to there is no DROGGED MAN'

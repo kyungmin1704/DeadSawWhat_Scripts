@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25ee425293c469c45b700de17766c8db, type: 3}
+  m_Name: WidowMaker
+  m_EditorClassIdentifier: 
+  gunName: WidowMaker
+  FPSGunPrefab: {fileID: 1656100911879977762, guid: a1c0ade7330b4e64782bed0dbaec9d95,
+    type: 3}
+  ammoData: {fileID: 11400000, guid: 3d10a4961a950444094b02c845640610, type: 2}

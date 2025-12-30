@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnemySelfExplode
+  m_Controller: {fileID: 9100000, guid: a87f59638b59d5f4fa5e04e25297e04c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a38d875b274a0574b900e4daa36e73cc, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 80ab63f1ad0e8c148a926a95200cec92, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: a52a0c25dac39654d9e50601cf756ae2, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 31ae779a6c054ef49a1aeafcfce39793, type: 3}
